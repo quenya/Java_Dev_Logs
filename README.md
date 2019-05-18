@@ -13,8 +13,7 @@ Java 8
 - optional
 
 Guava
-- 설치
-- 객체 new
+- 객체 초기화
 - Eventbus
 
 Test
